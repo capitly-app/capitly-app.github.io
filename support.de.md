@@ -1,3 +1,7 @@
+---
+lang: de
+---
+
 # Capitly Support
 
 Fragen, Probleme oder Ideen? Schreib an **denken-serum.2p@icloud.com** oder nutze in der App Einstellungen → Feedback geben. Dabei werden App- und Systemversion automatisch ergänzt.

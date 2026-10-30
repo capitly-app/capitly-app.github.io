@@ -1,3 +1,7 @@
+---
+lang: de
+---
+
 # Datenschutzerklärung für Capitly
 
 Stand: 30. Oktober 2026
