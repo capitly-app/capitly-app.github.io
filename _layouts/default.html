@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<!-- Replaces the Primer theme's layout, which loads anchor.js from cdnjs.cloudflare.com.
+     Everything here is served from GitHub Pages itself, so no visitor data goes to a third party. -->
+<html lang="{{ page.lang | default: site.lang | default: 'en' }}">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    {% seo %}
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+  </head>
+  <body>
+    <div class="container-lg px-3 my-5 markdown-body">
+      {{ content }}
+    </div>
+  </body>
+</html>
